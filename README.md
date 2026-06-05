@@ -1,8 +1,8 @@
-# Privacy Policy for StenciLab
+# Privacy Policy for Tatscale
 
-**Last updated:** [DATE]
+**Last updated:** June 5, 2026
 
-StenciLab ("the app", "we", "us") is operated by [YOUR NAME] ("the developer").
+Tatscale ("the app", "we", "us") is operated by Tatscale ("the developer").
 This policy explains what information the app collects, how it is used, and your
 choices. We keep this deliberately short and plain.
 
@@ -65,7 +65,7 @@ us (see below).
 
 ## Children
 
-StenciLab is not directed at children under 13, and we do not knowingly collect
+Tatscale is not directed at children under 13, and we do not knowingly collect
 personal information from them.
 
 ## Changes to this policy
@@ -75,4 +75,4 @@ reflects the latest version.
 
 ## Contact
 
-Questions or data requests: **[SUPPORT_EMAIL]**
+Questions or data requests: **hello@tatscale.com**
